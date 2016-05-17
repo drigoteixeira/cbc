@@ -41,7 +41,7 @@
 				<li><a href="#" class="btn-search"><div class="fa fa-search"></div> Buscar</a></li>
 				<li><a href="#"><i class="fa fa-shopping-cart"></i> <span class="badge">0</span></a></li>
 				<li class="dropdown">
-					<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> <i class="fa fa-user"></i> Carlos Batista<span class="caret"></span></a>
+					<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> <i class="fa fa-user"></i> Nome do Comprador<span class="caret"></span></a>
 					<ul class="dropdown-menu">
 						<li><a href="#">Minhas compras</a></li>
 						<li><a href="#">Meus pedidos</a></li>

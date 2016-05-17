@@ -27,38 +27,30 @@
                     </thead>
                     <tbody>
                         <tr>
-                            <td colspan="3" class="active"><strong>Tela Cadastro</strong></td>
+                            <td colspan="3" class="active"><strong>Login e Cadastro</strong></td>
                         </tr>
                         <tr>
-                            <td>Cadastro: Passo 1</td>
-                            <td><a href="#">HTML</a></td>
+                            <td>Splash</td>
+                            <td><a href="splash.php">HTML</a></td>
                             <td><a href="#">Não</a></td>
                         </tr>
                         <tr>
-                            <td>Cadastro: Passo 2</td>
-                            <td><a href="#">HTML</a></td>
+                            <td>Confirmação de Dados</td>
+                            <td><a href="confirmacao-dados.php">HTML</a></td>
                             <td><a href="#">Não</a></td>
                         </tr>
                         <tr>
-                            <td>Cadastro: Passo 3</td>
-                            <td><a href="#">HTML</a></td>
+                            <td>Preencha seus dados</td>
+                            <td><a href="cadastro.php">HTML</a></td>
                             <td><a href="#">Não</a></td>
-                        </tr>
-
-                        <tr>
-                            <td colspan="3" class="active"><strong>Login</strong></td>
                         </tr>
 
                         <tr>
                             <td>Login</td>
-                            <td><a href="#">HTML</a></td>
+                            <td><a href="login.php">HTML</a></td>
                             <td><a href="#">Não</a></td>
                         </tr>
-                        <tr>
-                            <td>Resetar senha</td>
-                            <td><a href="#">HTML</a></td>
-                            <td><a href="#">Não</a></td>
-                        </tr>
+
 
                         <tr>
                             <td colspan="3" class="active"><strong>Página Inicial</strong></td>
@@ -67,13 +59,13 @@
                         <tr>
                             <td>Homepage</td>
                             <td><a href="homepage.php">HTML</a></td>
-                            <td><a href="#">SIM</a></td>
+                            <td><a href="#">Não</a></td>
                         </tr>
 
                          <tr>
                             <td>Página Interna</td>
                             <td><a href="interna.php">HTML</a></td>
-                            <td><a href="#">SIM</a></td>
+                            <td><a href="#">Não</a></td>
                         </tr>
 
                         <tr>
@@ -83,13 +75,13 @@
                         <tr>
                             <td>Pesquisa de Produtos</td>
                             <td><a href="categoria.php">HTML</a></td>
-                            <td><a href="#">SIM</a></td>
+                            <td><a href="#">Não</a></td>
                         </tr>
 
                         <tr>
                             <td>Página do produto</td>
                             <td><a href="produto.php">HTML</a></td>
-                            <td><a href="#">SIM</a></td>
+                            <td><a href="#">Não</a></td>
                         </tr>
 
                         <tr>
@@ -123,10 +115,6 @@
 
                     </tbody>
                 </table>
-
-
-
-
             </div>
         </div>
     </div>
