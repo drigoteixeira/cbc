@@ -172,24 +172,30 @@
                     <p class="text-center"><a href="#" class="btn btn-primary btn-lg">Veja mais produtos</a></p>
                 </div>
             </div>
-
+            <hr>
         </div>
 
         <!-- COMO COMPRAR -->
         <div class="como-comprar">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-12">
-                        <h2>Como comprar</h2>
-
-                        <h3>Quem pode comprar?</h3>
-                        <p>AGENTES PENITENCIÁRIOS / BOMBEIROS / CACs (Colecionador, Atirador, Caçador) / FORÇAS ARMADAS / MAGISTRADOS / POLICIAIS CIVIS, FEDERAIS E MILITARES</p>
-
-                        <h3>CALIBRES RESTRITOS, QUAIS SÃO?</h3>
-                        <p>Os calibres restritos são: .40 / .44 / .45 / .357 / .454 / 9 mm (este específico para forças armadas)</p>
-
+                    <div class="col-md-4 destaque">
+                        <span class="icon"><i class="fa fa-shopping-cart"></i></span>
+                        <h3>Como Comprar</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut pulvinar, purus at egestas efficitur, ipsum dolor.</p>
+                        <p><a href="#">Saiba mais</a></p>
+                    </div>
+                    <div class="col-md-4 destaque">
+                        <span class="icon"><i class="fa fa-ban"></i></span>
+                        <h3>Calibres Restritos</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut pulvinar, purus at egestas efficitur, ipsum dolor.</p>
+                        <p><a href="#">Conheça mais</a></p>
+                    </div>
+                    <div class="col-md-4 destaque">
+                        <span class="icon"><i class="fa fa-info"></i></span>
                         <h3>Como adquirir?</h3>
-                        <p>Para aquisição é necessário autorização da DFPC em Brasília (Exército). Site e e-mail do "Fale Conosco" da DFPC onde constam todas as instruções para a solicitação da Autorização: Site: http://www.dfpc.eb.mil.br | E-mail: faledfpc@colog.eb.mil.br Com autorização emitida, você deve se dirigir a um de nossos representantes regionais e efetuar a compra.</p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut pulvinar, purus at egestas efficitur, ipsum dolor.</p>
+                        <p><a href="#">Veja como</a></p>
                     </div>
                 </div>
             </div>
@@ -205,9 +211,9 @@
                     <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fcbcoficial%2F&tabs&width=480&height=214&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=298450296104" width="480" height="214" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
                     <div class="social-networks">
                         <ul>
-                            <li><a href="#"><i class="fa fa-twitter"></i> </a></li>
-                            <li><a href="#"><i class="fa fa-google"></i> </a></li>
-                            <li><a href="#"><i class="fa fa-youtube"></i> </a></li>
+                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                            <li><a href="#"><i class="fa fa-google"></i></a></li>
+                            <li><a href="#"><i class="fa fa-youtube"></i></a></li>
                         </ul>
                     </div>
                 </div>
@@ -228,18 +234,17 @@
         <div class="contato">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-6 col-md-6">
+                    <div class="col-lg-12 col-md-6 text-center">
                         <h2>Contato</h2>
 
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut pulvinar, purus at egestas efficitur, ipsum dolor tristique est, vitae volutpat nunc tortor a nulla. <a href="#">Ver Mapa</a></p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut pulvinar, purus at egestas efficitur, ipsum dolor tristique est, vitae volutpat nunc tortor a nulla. <p>Telefone: +55 (51) 3021-3000 | SAC: 0800-600600</p>
 
+                        <a href="#" class="btn btn-default btn-lg">Ver Mapa</a>
 
-                        <p>Telefone: +55 (51) 3021-3000 | SAC: 0800-600600</p>
-
-
+                        <a href="#" class="btn btn-primary btn-lg">Envie uma mensagem</a>
                     </div>
 
-                    <div class="col-lg-6 col-md-6">
+                    <!--div class="col-lg-6 col-md-6">
                         <form action="#">
                             <div class="form-group">
                                 <label for="inputName" class="sr-only">Nome</label>
@@ -262,7 +267,7 @@
 
                             <button type="submit" class="btn btn-primary btn-lg">Enviar Mensagem</button>
                         </form>
-                    </div>
+                    </div-->
 
                 </div>
             </div>
