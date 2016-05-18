@@ -40,6 +40,11 @@
                             <td><span class="label label-success">Finalizado</span></td>
                         </tr>
                         <tr>
+                            <td>Confirmação de Dados (CAC)</td>
+                            <td><a href="confirmacao-dados-cac.php">HTML</a></td>
+                            <td><span class="label label-success">Finalizado</span></td>
+                        </tr>
+                        <tr>
                             <td>Preencha seus dados</td>
                             <td><a href="cadastro.php">HTML</a></td>
                             <td><span class="label label-success">Finalizado</span></td>
