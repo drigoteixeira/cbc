@@ -9,7 +9,7 @@
     <?php include __DIR__ . '/in/meta.php'; ?>
     <?php include __DIR__ . '/in/estilos.php'; ?>
 </head>
-<body class="login">
+<body id="cadastro">
 
     <img class="logo" src="img/logo-cbc.png">
 
@@ -17,13 +17,13 @@
 
         <div class="container">
             <div class="row">
-                <div class="col-md-8 col-md-offset-4">
-                    <h1>Preencha seu cadastro</h1>
+                <div class="col-md-6 col-md-offset-3 text-center">
+                    <h2>Preencha seu cadastro</h2>
                 </div>
             </div>
             <div class="row">
-                <div class="col-md-4 col-md-offset-4">
-                    <form action="login.php">
+                <div class="col-md-6 col-md-offset-3">
+                    <form action="login.php" class="form">
                         <div class="form-group">
                             <label for="inputName">Nome e Sobrenome</label>
                             <input type="text" class="form-control" id="inputName">

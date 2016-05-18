@@ -21,8 +21,8 @@
                     <thead>
                         <tr>
                             <th>Nome da Página</th>
-                            <th>Template HTML</th>
-                            <th>Pronto para aplicação</th>
+                            <th>Visualizar template HTML</th>
+                            <th>Status</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -32,23 +32,23 @@
                         <tr>
                             <td>Splash</td>
                             <td><a href="splash.php">HTML</a></td>
-                            <td><a href="#">Não</a></td>
+                            <td><span class="label label-success">Finalizado</span></td>
                         </tr>
                         <tr>
                             <td>Confirmação de Dados</td>
                             <td><a href="confirmacao-dados.php">HTML</a></td>
-                            <td><a href="#">Não</a></td>
+                            <td><span class="label label-success">Finalizado</span></td>
                         </tr>
                         <tr>
                             <td>Preencha seus dados</td>
                             <td><a href="cadastro.php">HTML</a></td>
-                            <td><a href="#">Não</a></td>
+                            <td><span class="label label-success">Finalizado</span></td>
                         </tr>
 
                         <tr>
                             <td>Login</td>
                             <td><a href="login.php">HTML</a></td>
-                            <td><a href="#">Não</a></td>
+                            <td><span class="label label-success">Finalizado</span></td>
                         </tr>
 
 
@@ -58,14 +58,14 @@
 
                         <tr>
                             <td>Homepage</td>
-                            <td><a href="homepage.php">HTML</a></td>
-                            <td><a href="#">Não</a></td>
+                            <td><a href="#">HTML</a></td>
+                            <td><span class="label label-warning">Em Construção</span></td>
                         </tr>
 
                          <tr>
                             <td>Página Interna</td>
                             <td><a href="interna.php">HTML</a></td>
-                            <td><a href="#">Não</a></td>
+                            <td><span class="label label-success">Finalizado</span></td>
                         </tr>
 
                         <tr>
@@ -74,20 +74,27 @@
 
                         <tr>
                             <td>Pesquisa de Produtos</td>
-                            <td><a href="categoria.php">HTML</a></td>
-                            <td><a href="#">Não</a></td>
+                            <td><a href="#">HTML</a></td>
+                            <td><span class="label label-warning">Em Construção</span></td>
                         </tr>
 
                         <tr>
                             <td>Página do produto</td>
-                            <td><a href="produto.php">HTML</a></td>
-                            <td><a href="#">Não</a></td>
+                            <td><a href="#">HTML</a></td>
+                            <td><span class="label label-warning">Em Construção</span></td>
                         </tr>
 
                         <tr>
                             <td>Carrinho de Compra</td>
-                            <td><a href="#">HTML</a></td>
-                            <td><a href="#">Não</a></td>
+                            <td><a href="carrinho.php">HTML</a></td>
+                            <td><span class="label label-success">Finalizado</span></td>
+                        </tr>
+
+
+                        <tr>
+                            <td>Carrinho de Compra - Vazio</td>
+                            <td><a href="carrinho-vazio.php">HTML</a></td>
+                            <td><span class="label label-success">Finalizado</span></td>
                         </tr>
 
 
@@ -98,19 +105,19 @@
                         <tr>
                             <td>Meus pedidos</td>
                             <td><a href="#">HTML</a></td>
-                            <td><a href="#">Não</a></td>
+                            <td><span class="label label-danger">Na fila</span></td>
                         </tr>
 
                         <tr>
                             <td>Detalhe do pedido</td>
                             <td><a href="#">HTML</a></td>
-                            <td><a href="#">Não</a></td>
+                            <td><span class="label label-danger">Na fila</span></td>
                         </tr>
 
                         <tr>
                             <td>Download do XML da NF-e</td>
                             <td><a href="#">HTML</a></td>
-                            <td><a href="#">Não</a></td>
+                            <td><span class="label label-danger">Na fila</span></td>
                         </tr>
 
                     </tbody>

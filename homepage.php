@@ -247,7 +247,7 @@
                             </div>
                             <div class="form-group">
                                 <label for="inputName" class="sr-only">E-mail</label>
-                                <input type="email" class="form-control" id="inputEmail" placeholder="Confirme seu e-mail">
+                                <input type="email" class="form-control" id="inputEmail" placeholder="E-mail">
                             </div>
 
                             <div class="form-group">

@@ -21,14 +21,14 @@
     <main class="main">
         <div class="anexo">
             <article>
-                <h1>Anexo</h1>
+                <h1>Sou anexo</h1>
                 <p>Weekends don't count unless you spend them doing something completely pointless.</p>
                 <a href="confirmacao-dados.php" class="btn btn-primary btn-lg">Entrar</a>
             </article>
         </div>
         <div class="cac">
             <article>
-                <h1>CAC</h1>
+                <h1>Sou CAC</h1>
                 <p>If your knees aren't green by the end of the day, you ought to seriously re-examine your life.</p>
                 <a href="confirmacao-dados-cac.php" class="btn btn-default btn-lg">Entrar</a>
             </article>

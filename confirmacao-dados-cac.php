@@ -9,7 +9,7 @@
     <?php include __DIR__ . '/in/meta.php'; ?>
     <?php include __DIR__ . '/in/estilos.php'; ?>
 </head>
-<body class="confirmacao">
+<body id="cadastro" class="confirmacao">
 
     <img class="logo" src="img/logo-cbc.png">
 
@@ -17,13 +17,13 @@
 
         <div class="container">
             <div class="row">
-                <div class="col-md-8 col-md-offset-4">
-                    <h1>Confirme seus dados</h1>
+                <div class="col-md-6 col-md-offset-3 text-center">
+                    <h2>Confirme seus dados</h2>
                 </div>
             </div>
             <div class="row">
-                <div class="col-md-4 col-md-offset-4">
-                    <form action="cadastro.php">
+                <div class="col-md-6 col-md-offset-3">
+                    <form action="cadastro.php" class="form">
                         <div class="form-group">
                             <label for="inputName">CPF:</label>
                             <input type="text" class="form-control" id="inputCpf" placeholder="Informe seu CPF" >

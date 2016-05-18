@@ -17,7 +17,7 @@
         <div class="hero-image">
             <div class="hero-unit"></div>
             <div class="tagline">
-                <h2>Categoria</h2>
+                <h2>Carrinho</h2>
             </div>
         </div>
 
@@ -28,7 +28,7 @@
             <!-- LINHA DE THUMBNAILS -->
             <div class="row">
                 <!-- THUMBNAIL -->
-                <div class="col-lg-3 col-sm-3">
+                <div class="col-lg-3 col-md-3 col-sm-2">
                     <div class="thumb">
                         <a href="#">
                             <img src="http://placehold.it/270X160" class="img-fluid" alt="Description da imagem">
@@ -41,7 +41,7 @@
                     </div>
                 </div>
                 <!-- THUMBNAIL -->
-                <div class="col-lg-3 col-sm-3">
+                <div class="col-lg-3 col-md-3 col-sm-2">
                     <div class="thumb">
                         <a href="#">
                             <img src="http://placehold.it/270X160" class="img-fluid" alt="Description da imagem">
@@ -54,7 +54,7 @@
                     </div>
                 </div>
                 <!-- THUMBNAIL -->
-                <div class="col-lg-3 col-sm-3">
+                <div class="col-lg-3 col-md-3 col-sm-2">
                     <div class="thumb">
                         <a href="#">
                             <img src="http://placehold.it/270X160" class="img-fluid" alt="Description da imagem">

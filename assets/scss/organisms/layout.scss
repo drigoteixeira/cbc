@@ -617,11 +617,18 @@ footer p {
 }
 
 .splash .anexo {
-  background: #222;
+  background-color: #222;
+  background-image: url("../img/bg-anexo.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
   color: #fff;
 }
 
-.splash .cac { background: #eee;
+.splash .cac { 
+  background: #eee;
+  background-image: url("../img/bg-cac.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .splash .logo {
@@ -631,6 +638,24 @@ footer p {
   width: auto;
 }
 
-/* LOGIN
+/* CADASTRO
    ========================================================================== */
+
+#cadastro {
+  background-color: transparent;
+  background-image: url("../img/bg-login.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#cadastro h2 {
+  color: #fff;
+}
+
+#cadastro .form {
+  background: #fafafa;
+  padding: 40px;
+  margin-bottom: 40px;
+  border-radius: 10px;
+}
 

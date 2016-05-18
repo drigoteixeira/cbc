@@ -8,9 +8,17 @@
     <?php include __DIR__ . '/in/meta.php'; ?>
     <?php include __DIR__ . '/in/estilos.php'; ?>
 </head>
-<body class="termos">
+<body class="termos categoria">
     <!-- Header -->
     <?php include __DIR__ . '/in/header.php'; ?>
+
+        <!-- HERO IMAGE --> 
+        <div class="hero-image">
+            <div class="hero-unit"></div>
+            <div class="tagline">
+                <h2>Nome da página</h2>
+            </div>
+        </div>
 
     <main>
 
